@@ -1,0 +1,9 @@
+E:\LiteWallPaper\wallpaper_player\player_main.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\player_main.obj
+E:\LiteWallPaper\wallpaper_player\app.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\app.obj
+E:\LiteWallPaper\wallpaper_player\nal_parser.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\nal_parser.obj
+E:\LiteWallPaper\wallpaper_player\d3d11_decoder.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\d3d11_decoder.obj
+E:\LiteWallPaper\wallpaper_player\d3d11_renderer.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\d3d11_renderer.obj
+E:\LiteWallPaper\wallpaper_player\wallpaper_window.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\wallpaper_window.obj
+E:\LiteWallPaper\wallpaper_player\tray_icon.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\tray_icon.obj
+E:\LiteWallPaper\wallpaper_player\config_manager.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\config_manager.obj
+E:\LiteWallPaper\wallpaper_player\foreground_monitor.cpp;E:\LiteWallPaper\build\wallpaper_player\wallpaper_player.dir\Release\foreground_monitor.obj
