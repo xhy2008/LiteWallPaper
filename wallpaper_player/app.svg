@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Light blue hollow rectangle (back) -->
+  <rect x="30" y="30" width="150" height="150" fill="none" stroke="#6BAED6" stroke-width="12"/>
+  <!-- Dark blue hollow rectangle (front), partially overlapping -->
+  <rect x="76" y="76" width="150" height="150" fill="none" stroke="#08519C" stroke-width="12"/>
+  <!-- Bold L centered in the overlap region -->
+  <text x="128" y="128" text-anchor="middle" dominant-baseline="central"
+        font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="#08306B">L</text>
+</svg>

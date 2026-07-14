@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/LiteWallPaper/build/cmake_install.cmake",
+		"E:/LiteWallPaper/build/common/cmake_install.cmake",
+		"E:/LiteWallPaper/build/wallpaper_maker/cmake_install.cmake",
+		"E:/LiteWallPaper/build/wallpaper_player/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

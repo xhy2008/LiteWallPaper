@@ -1,0 +1,8 @@
+// Resource file. Embeds the manifest and application icon so the binary is
+// self-contained.
+#include <windows.h>
+
+1 24 "app.manifest"
+
+// Application icon (also used as the .exe icon in Explorer and the tray icon).
+1 ICON "app.ico"

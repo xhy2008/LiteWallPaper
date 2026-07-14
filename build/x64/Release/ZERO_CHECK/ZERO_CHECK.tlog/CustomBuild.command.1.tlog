@@ -1,0 +1,10 @@
+^E:\LITEWALLPAPER\BUILD\CMAKEFILES\A0372D2175773EA6F5F1DCF7A00A8EBF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/LiteWallPaper -BE:/LiteWallPaper/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/LiteWallPaper/build/LiteWallPaper.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

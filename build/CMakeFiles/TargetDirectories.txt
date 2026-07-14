@@ -1,0 +1,4 @@
+E:/LiteWallPaper/build/CMakeFiles/ALL_BUILD.dir
+E:/LiteWallPaper/build/CMakeFiles/ZERO_CHECK.dir
+E:/LiteWallPaper/build/wallpaper_maker/CMakeFiles/wallpaper_maker.dir
+E:/LiteWallPaper/build/wallpaper_player/CMakeFiles/wallpaper_player.dir
